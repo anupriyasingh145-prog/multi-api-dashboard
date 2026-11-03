@@ -5,6 +5,7 @@ Weather data and GitHub activity live in separate systems, so getting a combined
 
 ## Approach
 A Streamlit dashboard that pulls from two public APIs (Open-Meteo and GitHub) and shows charts and tables in one page.
+   ![Dashboard](docs/dashboard.png)
 
 ## Run it
 ```

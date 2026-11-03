@@ -1,6 +1,7 @@
 import os
-import requests
+
 import pandas as pd
+import requests
 import streamlit as st
 
 st.set_page_config(page_title="Multi-API Dashboard", layout="wide")
